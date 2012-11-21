@@ -2,6 +2,6 @@
 
 This AppleScript will play WNYC (New York City Tri-State area NPR public radio) internet stream in iTunes.
 
-# Audio Formate
+# Audio Format
 
 The internet stream is in AAC format with a sample rate of 44.1kHz.
